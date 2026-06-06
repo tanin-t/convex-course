@@ -26,8 +26,18 @@ const weeks: Week[] = [
         title: "Convex คืออะไร และทำไมต้องใช้",
         available: true,
       },
-      { num: 2, slug: "session-2", title: "Schema: นิยามโครงสร้างข้อมูล" },
-      { num: 3, slug: "session-3", title: "Query: อ่านข้อมูลครั้งแรก" },
+      {
+        num: 2,
+        slug: "session-2",
+        title: "Schema: นิยามโครงสร้างข้อมูล",
+        available: true,
+      },
+      {
+        num: 3,
+        slug: "session-3",
+        title: "Query: อ่านข้อมูลครั้งแรก",
+        available: true,
+      },
     ],
   },
   {
